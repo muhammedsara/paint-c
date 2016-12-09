@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1477335589 source:c:\users\asuss\desktop\prolab2_paint\main.cpp
+	<allegro.h>
+
+1478821174 source:c:\users\asuss\desktop\prolab2\proje\prolab2_paint\main.cpp
+	<allegro.h>
+	<math.h>
+
+1478821174 source:d:\bölüm\kou\2.sinif\programlama lab2\paint\25_150201123_150201111\main.cpp
+	<allegro.h>
+	<math.h>
+
+1480277587 source:d:\bölüm\kou\2.sinif\programlama lab2\proje 1 teslim\paint\25_150201123_150201111\main.cpp
+	<allegro.h>
+	<math.h>
+
+1480838325 source:d:\bölüm\kou\2.sinif\programlama lab2\proje 1 teslim\paint\paint_muhammed_sara\main.cpp
+	<allegro.h>
+	<math.h>
+
